@@ -1,0 +1,16 @@
+{
+  "name": "learnexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon ./src/index.mjs",
+    "start": "node ./src/index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
